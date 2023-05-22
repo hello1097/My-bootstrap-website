@@ -1,0 +1,37 @@
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:50px;
+}
+
+.img1{
+    background-color:lightblue;
+    border: 5px solid grey;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.img2{
+    background-color:lightgreen;
+    border: 5px solid grey;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.img3{
+    background-color:rgb(234, 232, 132);
+    border: 5px solid grey;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.img4{
+    background-color:rgb(255, 117, 117);
+    border: 5px solid grey;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.img5{
+    background-color:rgb(61, 64, 65);
+    border: 5px solid grey;
+    margin-top:50px;
+    margin-bottom:50px;
+}
